@@ -1,1 +1,1 @@
-console.log("Test thử sửa code cho conflig, không push lên remove và merge vào develop luôn")
+console.log("Test thử")
