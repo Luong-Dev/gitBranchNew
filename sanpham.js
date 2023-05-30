@@ -1,3 +1,1 @@
-
-console.log("leader phải fix đây")
-
+console.log("fix bug cho thằng realese")
