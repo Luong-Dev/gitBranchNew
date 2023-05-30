@@ -1,3 +1,1 @@
-
-console.log("leader phải fix đây")
-
+console.log("fix conflig nè")
