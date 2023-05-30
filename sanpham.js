@@ -1,1 +1,3 @@
-console.log("test tạo pull request mà ko merge về phía mình trước phải up lên mới được")
+
+console.log("leader phải fix đây")
+
