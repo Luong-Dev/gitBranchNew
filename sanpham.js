@@ -1,1 +1,1 @@
-var a = "Hiển thị sản phẩm"
+console.log("Thay đổi code là chức năng hiển thị sản phẩm")
