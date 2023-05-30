@@ -1,1 +1,1 @@
-console.log("Test thử không up lên remote")
+console.log("Test thử không up lên remote, phải up lên mới được")
